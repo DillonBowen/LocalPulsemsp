@@ -1,0 +1,7 @@
+{
+  "name": "LocalPulse MSP",
+  "description": "An intelligent opportunity-discovery platform that connects local freelancers in the Minneapolis-St. Paul area with residents needing help, powered by Gemini. Features include gig analysis, image-based problem diagnosis, image generation, and a helpful chatbot.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
